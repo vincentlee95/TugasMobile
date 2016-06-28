@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello, BlackJackActivity!</string>
+    <string name="app_name">BlackJack</string>
+    <string name="help">"Peraturan permainan - dasar peraturan dari permainan ini adalah bahwa Anda harus memiliki total angka paling dekat dengan 21 dibandingkan dealer, tanpa mendapatkan total skor lebih dari 21.
+Jika total angka lebih dari 21 maka akan langsung dinyatakan sebagai kalah.
+
+Nilai dari Kartu -
+
+* Sebuah As dapat dianggap bernilai 1 atau 11.
+* Kartu dari 2 hingga 9 memiliki nilai angka sesuai default kartu tersebut.
+* kartu angka 10, Jack, Queen, dan King semua bernilai 10.
+
+Jumlah skor pada tangan merupakan jumlah total kartu yang ada ditangan. Misalnya, jlh kartu pada tangan yang mengandung skor (5,7,8) memiliki total skor 20.
+
+As akan dihitung sebagai 1 hanya jika Anda akan mendapatkan total skor lebih dari 21 atau ada dua As di tangan.
+Misalnya, tangan yang mengandung (A, 7) memiliki nilai 18. Sebuah tangan yang mengandung (A, 7,8) memiliki nilai 16. Maka As dihitung sebagai 1.
+
+Keterangan
+
+	Hit - Berarti Anda ingin menambah kartu lain.
+	Stand - Berarti Anda berhenti di total saat ini.
+	Menyerah - Anda akan kehilangan setengah uang Anda bertaruh di tangan.
+
+Di Susun Oleh:
+		Suwandi 		- 131110836
+		Vincent 		- 131110372
+		Jimmi Wijaya 	- 131110259
+"
+	
+	
+	</string>
+	
+
+</resources>
